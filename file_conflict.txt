@@ -1,1 +1,2 @@
-Prueba de conflictos en github
+Prueba de conflictos **mola** en github
+otra prueba
