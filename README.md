@@ -1,2 +1,4 @@
 # git-training
-prueba
+Mi primer commit
+Mi segundo commit
+Otra prueba
